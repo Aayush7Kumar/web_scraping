@@ -1,4 +1,4 @@
-# Web Scraping using BeautifulSoup
+# Web Scraping 'Bureau of Safety and Environmental Enforcement' website using Beautiful Soup
 The objective of this project is to download specific oil and gas data of the Gulf of Mexico region, clean and combine the data in .csv form. 
 
 The Python script navigates to the 'Bureau of Safety and Environmental Enforcement' website, checks for the latest file updates and downloads only the specified files. Upon generating the files (suppose for years 2019 and 2020), the script cleans the files and generates a combined file (.csv) which contains data from the years 2019 and 2020.
